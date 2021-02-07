@@ -10,5 +10,5 @@ $ go run main.go
 
 Open a new terminal and run:
 ```
-$ curl "http://localhost:8081
+$ curl "http://localhost:8081"
 ```
